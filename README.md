@@ -18,9 +18,9 @@ Bu uygulama, bir e-ticaret platformunun temel akışını (Ürün keşfetme, det
 ## 📸 Uygulama Ekran Görüntüleri
 Aşağıdaki tabloda uygulamanın temel işlevlerine ait ekran görüntüleri yer almaktadır:
 
-| Ana Sayfa (Keşfet) | Ürün Detay Sayfası | Sepetim Ekranı | Arama Ekranı |
-|:---:|:---:|:---:|
-| ![Ana Sayfa](ana_sayfa.png.png) | ![Detay](detay.png.png) | ![Sepet](sepet.png.png) | ![Arama](Ekran görüntüsü 2026-04-20 154218) |
+| Ana Sayfa (Keşfet) | Ürün Detay Sayfası | Sepetim Ekranı | Filtreleme Ekranı |
+|:---:|:---:|:---:|:---:|
+| ![Ana Sayfa](ana_sayfa.png.png) | ![Detay](detay.png.png) | ![Sepet](sepet.png.png) | ![Arama](Ekrangörüntüsü2026-04-20154218.png) |
 
 ## 🚀 Çalıştırma Adımları
 Projeyi yerel ortamınızda, özellikle **Android Emülatör** üzerinde çalıştırmak için aşağıdaki adımları izleyin:
