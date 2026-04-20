@@ -20,7 +20,7 @@ Aşağıdaki tabloda uygulamanın temel işlevlerine ait ekran görüntüleri ye
 
 | Ana Sayfa (Keşfet) | Ürün Detay Sayfası | Sepetim Ekranı |
 |:---:|:---:|:---:|
-| ![Ana Sayfa](ana_sayfa.png.png) | ![Detay](detay.png.png) | ![Sepet](sepet.png) |
+| ![Ana Sayfa](ana_sayfa.png.png) | ![Detay](detay.png.png) | ![Sepet](sepet.png.png) |
 
 ## 🚀 Çalıştırma Adımları
 Projeyi yerel ortamınızda, özellikle **Android Emülatör** üzerinde çalıştırmak için aşağıdaki adımları izleyin:
