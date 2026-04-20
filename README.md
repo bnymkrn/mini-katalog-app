@@ -12,8 +12,8 @@ Bu uygulama, bir e-ticaret platformunun temel akışını (Ürün keşfetme, det
 * **Sepet Yönetimi:** Sepete ürün ekleme, silme ve sepeti boşaltma işlemleri.
 
 ## ⚙️ Kullanılan Sürümler
-* **Flutter:** 3.x.x 
-* **Dart:** 3.x.x
+* **Flutter:** 3.41.7
+* **Dart:** 3.11.5
 
 ## 📸 Uygulama Ekran Görüntüleri
 Aşağıdaki tabloda uygulamanın temel işlevlerine ait ekran görüntüleri yer almaktadır:
