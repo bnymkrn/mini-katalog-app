@@ -20,7 +20,7 @@ Aşağıdaki tabloda uygulamanın temel işlevlerine ait ekran görüntüleri ye
 
 | Ana Sayfa (Keşfet) | Ürün Detay Sayfası | Sepetim Ekranı |
 |:---:|:---:|:---:|
-| ![Ana Sayfa](ana_sayfa.png) | ![Detay](ekran_goruntuleri/detay.png) | ![Sepet](ekran_goruntuleri/sepet.png) |
+| ![Ana Sayfa](ana_sayfa.png.png) | ![Detay](ekran_goruntuleri/detay.png) | ![Sepet](ekran_goruntuleri/sepet.png) |
 
 > **Not:** Görsellerin GitHub üzerinde görünmesi için `ekran_goruntuleri` klasörü içindeki dosyaların isimlerinin yukarıdakilerle eşleşmesi gerekmektedir.
 
