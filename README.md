@@ -20,9 +20,7 @@ Aşağıdaki tabloda uygulamanın temel işlevlerine ait ekran görüntüleri ye
 
 | Ana Sayfa (Keşfet) | Ürün Detay Sayfası | Sepetim Ekranı |
 |:---:|:---:|:---:|
-| ![Ana Sayfa](ana_sayfa.png.png) | ![Detay](ekran_goruntuleri/detay.png) | ![Sepet](ekran_goruntuleri/sepet.png) |
-
-> **Not:** Görsellerin GitHub üzerinde görünmesi için `ekran_goruntuleri` klasörü içindeki dosyaların isimlerinin yukarıdakilerle eşleşmesi gerekmektedir.
+| ![Ana Sayfa](ana_sayfa.png.png) | ![Detay](detay.png.png) | ![Sepet](sepet.png) |
 
 ## 🚀 Çalıştırma Adımları
 Projeyi yerel ortamınızda, özellikle **Android Emülatör** üzerinde çalıştırmak için aşağıdaki adımları izleyin:
